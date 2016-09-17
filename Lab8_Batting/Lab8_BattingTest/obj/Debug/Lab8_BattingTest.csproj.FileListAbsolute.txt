@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\obj\Debug\Lab8_BattingTest.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\bin\Debug\Lab8_BattingTest.dll
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\bin\Debug\Lab8_BattingTest.pdb
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\bin\Debug\Lab8_Batting.exe
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\bin\Debug\Lab8_Batting.pdb
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\obj\Debug\Lab8_BattingTest.dll
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_BattingTest\obj\Debug\Lab8_BattingTest.pdb

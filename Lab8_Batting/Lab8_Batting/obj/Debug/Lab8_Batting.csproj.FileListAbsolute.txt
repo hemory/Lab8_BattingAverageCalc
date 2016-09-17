@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_Batting\bin\Debug\Lab8_Batting.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_Batting\bin\Debug\Lab8_Batting.exe
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_Batting\bin\Debug\Lab8_Batting.pdb
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_Batting\obj\Debug\Lab8_Batting.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_Batting\obj\Debug\Lab8_Batting.exe
+c:\users\student\documents\visual studio 2015\Projects\Lab8_Batting\Lab8_Batting\obj\Debug\Lab8_Batting.pdb
